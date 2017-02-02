@@ -1,0 +1,15 @@
+{
+  "name": "Login_And_Registration",
+  "version": "0.0.1",
+  "description": "Full Mean assignment",
+  "main": "server.js",
+  "author": "peachteaboba",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "latest",
+    "colors": "^1.1.2",
+    "express": "latest",
+    "mongoose": "latest",
+    "socket.io": "^1.7.2"
+  }
+}

@@ -1,0 +1,84 @@
+.reg{
+  display: inline-block;
+  vertical-align: top;
+  outline: 1px solid blue;
+  margin: 40px;
+  padding: 40px;
+  text-align: right;
+}
+
+label{
+  display: block;
+  margin-bottom: 15px;
+}
+
+input{
+  display: inline-block;
+}
+
+.login{
+  display: inline-block;
+  vertical-align: top;
+  outline: 1px solid green;
+  margin: 40px;
+  padding: 40px;
+  text-align: right;
+}
+
+h3{
+  color: red;
+}
+
+.input-top{
+  outline: 1px solid blue;
+  margin: 40px;
+  padding: 40px;
+}
+
+.input-top textarea{
+  display: block;
+  width: 90%;
+  height: 100px;
+}
+
+.input-top button{
+  float: right;
+
+}
+
+span{
+  background-color: green;
+  color: white;
+}
+
+.messages{
+  outline: 1px solid green;
+  margin: 40px;
+  padding: 40px;
+}
+.message-content{
+  color: green;
+}
+
+
+.messages textarea{
+  display: block;
+  width: 70%;
+  height: 70px;
+  margin-left: 220px;
+}
+
+.messages button{
+
+}
+.comment-field{
+  text-align: right;
+}
+
+
+.comment{
+  outline: 1px solid orange;
+  margin: 40px;
+  padding: 40px;
+  text-align: right;
+}
